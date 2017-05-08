@@ -1,0 +1,2 @@
+# HibernateOrnek
+Ödev
